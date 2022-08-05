@@ -18,7 +18,7 @@ Let's grow together!
  /*
 
 <T> means passed in type in TypeScript Generics. Here im calling it <TData>
-to give the context as passed in item type.
+to give the context as passed in data type.
 
 ****************************************************************************
 
