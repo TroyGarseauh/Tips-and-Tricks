@@ -38,8 +38,8 @@ This is how we pass <TData> to our interface we're passing it as a variable.
 Now we can make our TableData interface
 
 interface TableData<TData>{
-    items:TData[]; Now we use <TData> and assign it to items 
-    renderedData:(item:TData)=>React.ReactNode; Here we're saying render this item out 
+    data:TData[]; Now we use <TData> and assign it to data 
+    renderedData:(item:TData)=>React.ReactNode; Here we're saying render this data out 
 }
 
 ****************************************************************************
@@ -61,6 +61,7 @@ productName thats not what we want.
 ****************************************************************************
 
 Now we can create our TableComponent that can accept any data passed to item!
+See how the Tables are different but still able to render the data out.
 
 export const TableComponent = () => {
   return (
