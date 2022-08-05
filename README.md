@@ -17,8 +17,7 @@ _{Hey everybody my name is Troy Garcia a developer in the United States.I wanted
 
 ## Closing Thoughts
 
-* If you're using TypeScript Tips please make sure you run the latest version if something doesn't work. 
-_{If you see something wrong please raise an issue so I can fix it. You are encouraged to do what I did better and tell me about it :) thank you for helping me grow.}_
+_{If you see something wrong please raise an issue so I can fix it. You are encouraged to do what I did better and tell me about it :) thank you for helping me grow. Now I'm off to go get my fist Tech Job!}_
 
 ## Contact Me
 _{Twitter: @troygarseauh
