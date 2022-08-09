@@ -18,7 +18,7 @@ Let's grow together!
 
 interface TableData<TData> {
     data:TData[]; 
-    renderedData:(item:TData)=>React.ReactNode;
+    renderedData:(data:TData)=>React.ReactNode;
 }
 
 
